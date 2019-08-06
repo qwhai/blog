@@ -1,0 +1,10 @@
+# 概述
+# 版本
+# 数据类型
+# 权限控制
+# 应用示例
+# 优点及缺点
+# 第三方引用
+# Ref
+- [http://www.cnblogs.com/dkblog/archive/2012/03/27/2419010.html](http://www.cnblogs.com/dkblog/archive/2012/03/27/2419010.html)
+- [https://www.jianshu.com/p/e0d81a9963e9](https://www.jianshu.com/p/e0d81a9963e9)

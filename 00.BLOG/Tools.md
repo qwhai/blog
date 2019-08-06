@@ -1,0 +1,67 @@
+
+- 工具集
+    - 数据库可视化
+        - MySQL
+            - phpMyAdmin
+            - Navicat for MySQL
+            - SQLyog
+        - SQLite
+            - SQLite Expert Professional 4
+        - MongoDB
+            - Studio 3T for MongoDB
+            - MongoDB Compass
+        - Redis
+            - RedisDesktopManager
+    - 文本编辑器
+        - Notepad++
+    - 产品原型图
+        - Axure RP Pro 8.0
+    - 远程桌面
+        - Teamviewer
+        - 向日葵
+    - 博客/文档
+        - Atom
+        - FarBox
+        - MarkdownPad2
+    - 思维导图
+        - Mindjet MindManager
+        - MindMaster
+        - XMind
+        - 百度脑图
+    - 截图工具
+        - FSCapture
+    - 下载工具
+        - Free Download Manager
+    - Chrome插件
+        - Free Download Manager
+        - 谷歌访问助手
+        - 印象笔记网页裁剪插件 Evernote Web Clipper
+    - 命令行终端
+        - PowerShell
+        - XShell
+        - PuTTY
+    - 二进制编辑器
+        - WinHex
+        - 010 Editer
+    - 文件传输
+        - CURL
+    - 服务压力测试
+        - Apache bench
+    - GIF录制工具
+        - ScreenToGif 1.4.1
+        - GifCam-4.5
+    - 翻墙
+        - Vultr + Shadowsocks
+        - 蓝灯
+    - 本地文件搜索
+        - Everything
+        - 桌面整理-文件搜索
+    - Windows阅读器
+        - Calibre2
+    - 注册表
+        - 注册表清理工具
+            - RegClean
+    - 文件隐藏/加密工具
+        - Wise Folder Hider
+    - 文件资源管理器插件
+        - Clover
